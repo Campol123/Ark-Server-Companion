@@ -1,4 +1,6 @@
 {"serverName": "N/A",
   "botToken": "N/A",
-  "steamAPIKey": "N/A"
+  "steamAPIKey": "N/A",
+  "restartFunc": "N/A",
+  "restartTime": "03:00"
 }

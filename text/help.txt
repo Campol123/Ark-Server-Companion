@@ -1,0 +1,5 @@
+/asc - Displays the welcome message
+/asc help - Displays this message
+/asc ip - Displays IP address of the network the ASC bot is running on
+/asc info - Displays information on servers that are running the ASC bot's network
+/asc info <domain/ip> - Displays info on servers running on network of domain or ip specified
